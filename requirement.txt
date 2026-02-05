@@ -1,5 +1,0 @@
-streamlit
-vaderSentiment
-dotenv
-requests
-flask
